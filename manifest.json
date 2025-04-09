@@ -1,0 +1,20 @@
+{
+  "name": "Motion Solutions AB – Mobil bilvård i Sandviken & Gävle",
+  "short_name": "Motion",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0b13",
+  "theme_color": "#3f9dfb",
+  "icons": [
+    {
+      "src": "/Android.png",
+      "sizes": "196x196",
+      "type": "image/png"
+    },
+    {
+      "src": "/iPhone.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
