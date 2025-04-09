@@ -4,7 +4,6 @@
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0a0b13",
-  "theme_color": "#3f9dfb",
   "icons": [
     {
       "src": "/Android.png",
